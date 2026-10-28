@@ -1,0 +1,764 @@
+{
+ "res": {
+  "fifa|Junior A|g0r0m0": [
+   2,
+   1,
+   "Dom 18/10 · 13:00 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Junior A|g0r0m1": [
+   2,
+   5,
+   "Dom 18/10 · 13:40 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Junior A|g0r1m0": [
+   0,
+   3,
+   "Sáb 17/10 · 18:30 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Junior A|g0r1m1": [
+   2,
+   1,
+   "Sáb 17/10 · 19:10 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Junior A|g0r3m0": [
+   2,
+   8,
+   "09:50 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Junior A|g0r3m1": [
+   3,
+   1,
+   "15:40 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Junior A|g1r0m0": [
+   1,
+   3,
+   "Dom 18/10 · 14:20 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Junior A|g1r0m1": [
+   1,
+   1,
+   "Dom 18/10 · 17:40 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Junior A|g1r1m0": [
+   2,
+   0,
+   "Sáb 17/10 · 19:50 · Tinglado Secundaria · W.O. 2013",
+   ""
+  ],
+  "fifa|Junior A|g1r1m1": [
+   5,
+   3,
+   "Sáb 17/10 · 20:30 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Junior A|g1r3m0": [
+   4,
+   1,
+   "10:30 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Junior A|g1r3m1": [
+   1,
+   4,
+   "14:20 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Junior A|g1r4m1": [
+   "",
+   "",
+   "Sáb 17/10 · 13:40 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Junior A|g2r0m0": [
+   5,
+   3,
+   "Dom 18/10 · 15:40 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Junior A|g2r0m1": [
+   2,
+   1,
+   "Dom 18/10 · 16:20 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Junior A|g2r1m0": [
+   1,
+   1,
+   "Sáb 17/10 · 21:10 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Junior A|g2r1m1": [
+   0,
+   2,
+   "Sáb 17/10 · 18:30 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Junior A|g2r3m0": [
+   0,
+   3,
+   "13:40 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Junior A|g2r3m1": [
+   3,
+   1,
+   "13:00 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Junior B|g0r0m0": [
+   2,
+   3,
+   "Dom 18/10 · 15:00 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Junior B|g0r0m1": [
+   1,
+   1,
+   "Dom 18/10 · 17:00 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Junior B|g0r1m0": [
+   0,
+   2,
+   "Sáb 17/10 · 19:10 · Tinglado Primaria · W.O. 2022",
+   ""
+  ],
+  "fifa|Junior B|g0r1m1": [
+   4,
+   4,
+   "Sáb 17/10 · 19:50 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Junior B|g0r2m0": [
+   0,
+   4,
+   "08:20 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Junior B|g0r2m1": [
+   3,
+   1,
+   "09:10 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Junior B|g0r3m0": [
+   "",
+   "",
+   "Sáb 17/10 · 13:40 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Junior B|g1r0m0": [
+   0,
+   2,
+   "Dom 18/10 · 17:00 · Tinglado Primaria · W.O. 2023",
+   ""
+  ],
+  "fifa|Junior B|g1r0m1": [
+   2,
+   2,
+   "Dom 18/10 · 16:20 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Junior B|g1r1m0": [
+   0,
+   2,
+   "Sáb 17/10 · 20:30 · Tinglado Primaria · W.O. 2023",
+   ""
+  ],
+  "fifa|Junior B|g1r1m1": [
+   2,
+   1,
+   "Sáb 17/10 · 21:10 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Master A|g0r0m0": [
+   1,
+   6,
+   "Dom 18/10 · 15:40 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Master A|g0r1m0": [
+   0,
+   2,
+   "08:20 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Master A|g1r0m0": [
+   5,
+   2,
+   "Dom 18/10 · 13:00 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Master A|g1r1m0": [
+   2,
+   0,
+   "09:50 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Master A|xr0m0": [
+   2,
+   0,
+   "Dom 18/10 · 09:40 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Master A|xr1m0": [
+   2,
+   2,
+   "09:10 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Master B|g0r0m0": [
+   0,
+   1,
+   "Dom 18/10 · 09:00 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Master B|g0r0m1": [
+   2,
+   3,
+   "Dom 18/10 · 09:40 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Master B|g0r2m0": [
+   4,
+   2,
+   "15:00 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Master B|g0r2m1": [
+   1,
+   1,
+   "16:20 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Master B|g1r0m0": [
+   0,
+   0,
+   "Dom 18/10 · 10:20 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Master B|g1r0m1": [
+   1,
+   2,
+   "Dom 18/10 · 11:00 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Senior A|g0r0m0": [
+   1,
+   2,
+   "Dom 18/10 · 09:00 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Senior A|g0r1m0": [
+   2,
+   1,
+   "11:10 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Senior A|g1r0m0": [
+   1,
+   3,
+   "Dom 18/10 · 11:00 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Senior A|g1r0m1": [
+   1,
+   1,
+   "Dom 18/10 · 10:20 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Senior A|g1r1m0": [
+   1,
+   2,
+   "10:30 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Senior A|g1r1m1": [
+   3,
+   1,
+   "11:10 · Tinglado Secundaria",
+   ""
+  ],
+  "fifa|Senior B|g0r0m0": [
+   7,
+   6,
+   "Dom 18/10 · 13:40 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Senior B|g0r1m0": [
+   "",
+   "",
+   "Sáb 17/10 · 14:20 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Senior B|g1r0m0": [
+   3,
+   2,
+   "Dom 18/10 · 15:00 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Senior B|xr0m0": [
+   1,
+   1,
+   "Dom 18/10 · 14:20 · Tinglado Primaria",
+   ""
+  ],
+  "fifa|Senior B|xr1m0": [
+   "",
+   "",
+   "Sáb 17/10 · 15:40 · Tinglado Primaria",
+   ""
+  ],
+  "handbol|Junior A|g0r0m0": [
+   10,
+   8,
+   "Sáb 17/10 · 19:00 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "handbol|Junior A|g0r0m1": [
+   4,
+   5,
+   "Sáb 17/10 · 19:40 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "handbol|Junior B|g0r0m0": [
+   11,
+   6,
+   "Sáb 17/10 · 20:20 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "handbol|Junior B|g0r0m1": [
+   17,
+   1,
+   "Sáb 17/10 · 21:00 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "suizo|Junior A|g0r0m0": [
+   3,
+   0,
+   "17:40 · CRECE",
+   ""
+  ],
+  "suizo|Junior A|xr0m0": [
+   2,
+   1,
+   "09:50 · CRECE",
+   ""
+  ],
+  "suizo|Junior B|g0r0m0": [
+   2,
+   2,
+   "Dom 18/10 · 13:40 · CRECE",
+   ""
+  ],
+  "suizo|Junior B|g0r0m1": [
+   0,
+   2,
+   "Dom 18/10 · 09:40 · CRECE",
+   ""
+  ],
+  "suizo|Junior B|g0r1m0": [
+   0,
+   2,
+   "15:00 · CRECE",
+   ""
+  ],
+  "suizo|Junior B|g0r1m1": [
+   2,
+   1,
+   "14:20 · CRECE",
+   ""
+  ],
+  "suizo|Master A|g0r0m0": [
+   1,
+   1,
+   "Dom 18/10 · 10:20 · CRECE",
+   ""
+  ],
+  "suizo|Master A|g0r1m0": [
+   3,
+   2,
+   "17:00 · CRECE",
+   ""
+  ],
+  "suizo|Master A|g0r2m0": [
+   "",
+   "",
+   "Sáb 17/10 · 14:20 · CRECE",
+   ""
+  ],
+  "suizo|Master A|g1r0m0": [
+   1,
+   0,
+   "Dom 18/10 · 09:00 · CRECE",
+   ""
+  ],
+  "suizo|Master A|g1r0m1": [
+   0,
+   0,
+   "Dom 18/10 · 16:20 · CRECE",
+   ""
+  ],
+  "suizo|Master A|g1r1m0": [
+   0,
+   0,
+   "15:40 · CRECE",
+   ""
+  ],
+  "suizo|Master A|g1r1m1": [
+   "",
+   "",
+   "Sáb 17/10 · 15:00 · CRECE",
+   ""
+  ],
+  "suizo|Master B|g0r0m0": [
+   1,
+   1,
+   "Dom 18/10 · 13:00 · CRECE",
+   ""
+  ],
+  "suizo|Master B|g0r0m1": [
+   0,
+   1,
+   "Dom 18/10 · 11:00 · CRECE",
+   ""
+  ],
+  "suizo|Master B|g0r1m0": [
+   0,
+   0,
+   "16:20 · CRECE",
+   ""
+  ],
+  "suizo|Master B|g0r1m1": [
+   0,
+   2,
+   "10:30 · CRECE",
+   ""
+  ],
+  "suizo|Master B|g1r0m0": [
+   1,
+   0,
+   "Dom 18/10 · 14:20 · CRECE",
+   ""
+  ],
+  "suizo|Master B|g1r0m1": [
+   1,
+   0,
+   "Dom 18/10 · 15:00 · CRECE",
+   ""
+  ],
+  "suizo|Master B|g1r1m0": [
+   0,
+   0,
+   "11:10 · CRECE",
+   ""
+  ],
+  "suizo|Master B|g1r1m1": [
+   0,
+   1,
+   "13:00 · CRECE",
+   ""
+  ],
+  "suizo|Senior A|g0r0m0": [
+   0,
+   4,
+   "Dom 18/10 · 15:40 · CRECE",
+   ""
+  ],
+  "suizo|Senior A|g1r0m0": [
+   3,
+   0,
+   "Dom 18/10 · 17:40 · CRECE",
+   ""
+  ],
+  "suizo|Senior A|g1r0m1": [
+   4,
+   0,
+   "Dom 18/10 · 17:00 · CRECE",
+   ""
+  ],
+  "suizo|Senior B|g0r0m0": [
+   3,
+   1,
+   "13:40 · CRECE",
+   ""
+  ],
+  "suizo|Senior B|g1r0m0": [
+   2,
+   0,
+   "08:20 · CRECE",
+   ""
+  ],
+  "suizo|Senior B|xr0m0": [
+   1,
+   3,
+   "09:10 · CRECE",
+   ""
+  ],
+  "voleyf|Master|g0r0m0": [
+   2,
+   0,
+   "Dom 18/10 · 13:40 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "voleyf|Master|g1r1m0": [
+   0,
+   0,
+   "11:10 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "voleyf|Master|xr0m0": [
+   0,
+   2,
+   "Dom 18/10 · 15:00 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "voleyf|Senior|g0r0m0": [
+   1,
+   2,
+   "Dom 18/10 · 17:00 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "voleyf|Senior|g0r0m1": [
+   0,
+   2,
+   "Dom 18/10 · 15:40 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "voleyf|Senior|g0r2m0": [
+   0,
+   2,
+   "10:30 · Cancha Abierta Secundaria · W.O. 1984",
+   ""
+  ],
+  "voleyf|Senior|g0r2m1": [
+   2,
+   0,
+   "09:50 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "voleym|Junior|g0r0m0": [
+   2,
+   1,
+   "Dom 18/10 · 13:00 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "voleym|Junior|g0r0m1": [
+   0,
+   2,
+   "Dom 18/10 · 09:40 · Cancha Abierta Secundaria · W.O. 2016",
+   ""
+  ],
+  "voleym|Junior|g0r1m0": [
+   2,
+   0,
+   "16:20 · Cancha Tinglado Secundaria",
+   ""
+  ],
+  "voleym|Junior|g0r1m1": [
+   2,
+   0,
+   "13:00 · Cancha Tinglado Secundaria",
+   ""
+  ],
+  "voleym|Master|g0r0m0": [
+   2,
+   0,
+   "17:00 · Cancha Tinglado Secundaria",
+   ""
+  ],
+  "voleym|Master|g1r0m0": [
+   1,
+   2,
+   "15:40 · Cancha Tinglado Secundaria",
+   ""
+  ],
+  "voleym|Master|xr0m0": [
+   2,
+   0,
+   "13:40 · Cancha Tinglado Secundaria",
+   ""
+  ],
+  "voleym|Senior|g0r0m0": [
+   2,
+   0,
+   "Dom 18/10 · 10:20 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "voleym|Senior|g0r0m1": [
+   0,
+   2,
+   "Dom 18/10 · 09:00 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "voleym|Senior|g0r1m0": [
+   2,
+   0,
+   "14:20 · Cancha Tinglado Secundaria",
+   ""
+  ],
+  "voleym|Senior|g0r1m1": [
+   0,
+   2,
+   "08:20 · Cancha Abierta Secundaria",
+   ""
+  ],
+  "voleym|Senior|g1r0m0": [
+   2,
+   0,
+   "09:10 · Cancha Abierta Secundaria · W.O. 1984",
+   ""
+  ],
+  "voleym|Senior|g1r0m1": [
+   2,
+   0,
+   "15:00 · Cancha Tinglado Secundaria",
+   ""
+  ]
+ },
+ "sc": {
+  "handbol|Junior A": [
+   {
+    "a": "",
+    "g": 7,
+    "n": "Gonzalez Delvalle Camila Alexandra",
+    "t": "2015"
+   },
+   {
+    "a": "",
+    "g": 5,
+    "n": "Sandra Diaz",
+    "t": "2014"
+   },
+   {
+    "a": "",
+    "g": 4,
+    "n": "Ana Rodriguez",
+    "t": "2016"
+   },
+   {
+    "a": "",
+    "g": 3,
+    "n": "Diana Benitez",
+    "t": "2014"
+   },
+   {
+    "a": "",
+    "g": 2,
+    "n": "Benegas Peralta, Deborah Camila",
+    "t": "2010"
+   },
+   {
+    "a": "",
+    "g": 2,
+    "n": "Cuenca Fernandez, Gessica Librada",
+    "t": "2010"
+   },
+   {
+    "a": "",
+    "g": 1,
+    "n": "Bentos Villalba, Denisse Araceli",
+    "t": "2010"
+   },
+   {
+    "a": "",
+    "g": 1,
+    "n": "Escobar Gonzalez Naida María",
+    "t": "2015"
+   },
+   {
+    "a": "",
+    "g": 1,
+    "n": "Melgarejo Molinas Jacqueline Belen",
+    "t": "2015"
+   },
+   {
+    "a": "",
+    "g": 1,
+    "n": "Vera Franco Thais Amanda",
+    "t": "2015"
+   }
+  ],
+  "handbol|Junior B": [
+   {
+    "a": "",
+    "g": 6,
+    "n": "Luján Molas",
+    "t": "2020"
+   },
+   {
+    "a": "",
+    "g": 6,
+    "n": "Larissa Monserrat Reyes Vega",
+    "t": "2024"
+   },
+   {
+    "a": "",
+    "g": 5,
+    "n": "Katia Segovia",
+    "t": "2019"
+   },
+   {
+    "a": "",
+    "g": 5,
+    "n": "Aura Duarte",
+    "t": "2020"
+   },
+   {
+    "a": "",
+    "g": 4,
+    "n": "Marisol Alfonso",
+    "t": "2020"
+   },
+   {
+    "a": "",
+    "g": 3,
+    "n": "Valeria Areco",
+    "t": "2019"
+   },
+   {
+    "a": "",
+    "g": 2,
+    "n": "Evelyn Ibáñez",
+    "t": "2020"
+   },
+   {
+    "a": "",
+    "g": 1,
+    "n": "Villalba Ferreira, Lisandra Esmilce",
+    "t": "2018"
+   },
+   {
+    "a": "",
+    "g": 1,
+    "n": "Jessica Olmedo",
+    "t": "2019"
+   },
+   {
+    "a": "",
+    "g": 1,
+    "n": "Mical Viana",
+    "t": "2019"
+   },
+   {
+    "a": "",
+    "g": 1,
+    "n": "Katia Rios",
+    "t": "2019"
+   }
+  ]
+ },
+ "nm": {},
+ "aw": {},
+ "pr": {},
+ "actualizado": "2026-10-27T18:27:35-03:00"
+}
